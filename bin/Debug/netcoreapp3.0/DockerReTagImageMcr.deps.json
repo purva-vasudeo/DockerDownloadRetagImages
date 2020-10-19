@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DockerReTagImageMcr/1.0.0": {
+        "dependencies": {
+          "Docker.DotNet": "3.125.4",
+          "Docker.DotNet.BasicAuth": "3.125.3"
+        },
+        "runtime": {
+          "DockerReTagImageMcr.dll": {}
+        }
+      },
+      "Docker.DotNet/3.125.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Buffers": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Docker.DotNet.dll": {
+            "assemblyVersion": "3.125.0.0",
+            "fileVersion": "3.125.4.0"
+          }
+        }
+      },
+      "Docker.DotNet.BasicAuth/3.125.3": {
+        "dependencies": {
+          "Docker.DotNet": "3.125.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Docker.DotNet.BasicAuth.dll": {
+            "assemblyVersion": "3.125.3.0",
+            "fileVersion": "3.125.3.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Buffers/4.5.1": {}
+    }
+  },
+  "libraries": {
+    "DockerReTagImageMcr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Docker.DotNet/3.125.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qStC9eSTewp/ySdN484fWhe9ZJZxuQtLRCMHnBH4GLbSS94A46n5OZp7nmRbe65iXjL4pIgfC7jiHhrEziCg9A==",
+      "path": "docker.dotnet/3.125.4",
+      "hashPath": "docker.dotnet.3.125.4.nupkg.sha512"
+    },
+    "Docker.DotNet.BasicAuth/3.125.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oEuf3732V94E+l21WEPWAar+fCxfayOA23qsn4I1jq3nymPrXY+s/kq2izvBh0TY3A1pmvvrURaRwkIg5GXE3A==",
+      "path": "docker.dotnet.basicauth/3.125.3",
+      "hashPath": "docker.dotnet.basicauth.3.125.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Buffers/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.exe
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.deps.json
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.runtimeconfig.json
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.runtimeconfig.dev.json
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.dll
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\DockerReTagImageMcr.pdb
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\Docker.DotNet.dll
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\Docker.DotNet.BasicAuth.dll
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.csprojAssemblyReference.cache
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.csproj.CoreCompileInputs.cache
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.AssemblyInfoInputs.cache
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.AssemblyInfo.cs
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.csproj.CopyComplete
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.dll
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.pdb
+C:\Users\puvasude\source\repos\DockerReTagImageMcr\DockerReTagImageMcr\obj\Debug\netcoreapp3.0\DockerReTagImageMcr.genruntimeconfig.cache

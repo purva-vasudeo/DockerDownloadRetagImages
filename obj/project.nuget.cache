@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2AsQAIqbowAb9RIJUVDav+ORJjWHdOXevUZycOW10WzTbwvf2vgAT64wbeFQ1UbqX6+9jkGELy2H/Div3SnKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\puvasude\\source\\repos\\DockerReTagImageMcr\\DockerReTagImageMcr\\DockerReTagImageMcr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puvasude\\.nuget\\packages\\docker.dotnet\\3.125.4\\docker.dotnet.3.125.4.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\docker.dotnet.basicauth\\3.125.3\\docker.dotnet.basicauth.3.125.3.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.0.3\\microsoft.netcore.app.host.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\puvasude\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
